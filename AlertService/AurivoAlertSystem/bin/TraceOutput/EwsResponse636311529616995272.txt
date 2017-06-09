@@ -1,0 +1,176 @@
+<Trace Tag="EwsResponse" Tid="10" Time="2017-05-23 15:16:01Z" Version="15.00.0913.015">
+  <?xml version="1.0" encoding="utf-8"?>
+  <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+    <s:Header>
+      <h:ServerVersionInfo MajorVersion="15" MinorVersion="1" MajorBuildNumber="1101" MinorBuildNumber="19" Version="V2017_04_14" xmlns:h="http://schemas.microsoft.com/exchange/services/2006/types" xmlns="http://schemas.microsoft.com/exchange/services/2006/types" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    </s:Header>
+    <s:Body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <m:GetItemResponse xmlns:m="http://schemas.microsoft.com/exchange/services/2006/messages" xmlns:t="http://schemas.microsoft.com/exchange/services/2006/types">
+        <m:ResponseMessages>
+          <m:GetItemResponseMessage ResponseClass="Success">
+            <m:ResponseCode>NoError</m:ResponseCode>
+            <m:Items>
+              <t:Message>
+                <t:ItemId Id="AAMkAGViMTdkMmFjLWM4ZDgtNGY3NS1iYjYzLTEyZWM5Yjg2ODZmMgBGAAAAAABbcrmIRvDtTathu7RG3nVSBwDhrKmabaYmS4ZFkTt3N2jpAAAAAAEMAADhrKmabaYmS4ZFkTt3N2jpAAFnTUJPAAA=" ChangeKey="CQAAABYAAADhrKmabaYmS4ZFkTt3N2jpAAFnagrF" />
+                <t:ParentFolderId Id="AQMkAGViMTdkMmFjLWM4ZDgtNGY3NS1iYgA2My0xMmVjOWI4Njg2ZjIALgAAA1tyuYhG8O1Nq2G7tEbedVIBAOGsqZptpiZLhkWRO3c3aOkAAAIBDAAAAA==" ChangeKey="AQAAAA==" />
+                <t:ItemClass>IPM.Note</t:ItemClass>
+                <t:Subject>CORE#</t:Subject>
+                <t:Sensitivity>Normal</t:Sensitivity>
+                <t:Body BodyType="HTML" IsTruncated="false">&lt;html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"&gt;
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"&gt;
+&lt;meta name="Generator" content="Microsoft Word 15 (filtered medium)"&gt;
+&lt;style&gt;&lt;!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--&gt;&lt;/style&gt;
+&lt;/head&gt;
+&lt;body lang="EN-IE"&gt;
+&lt;div class="WordSection1"&gt;
+&lt;p class="MsoNormal"&gt;B1&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;B2&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</t:Body>
+                <t:DateTimeReceived>2017-05-23T15:15:02Z</t:DateTimeReceived>
+                <t:Size>13032</t:Size>
+                <t:Importance>Normal</t:Importance>
+                <t:IsSubmitted>false</t:IsSubmitted>
+                <t:IsDraft>false</t:IsDraft>
+                <t:IsFromMe>false</t:IsFromMe>
+                <t:IsResend>false</t:IsResend>
+                <t:IsUnmodified>true</t:IsUnmodified>
+                <t:InternetMessageHeaders>
+                  <t:InternetMessageHeader HeaderName="Received">from am4pr0201cu001.internal.outlook.com (2a01:111:e400:51c1::24) by DB5PR01MB1367.eurprd01.prod.exchangelabs.com with HTTP via DB6PR07CA0021.EURPRD07.PROD.OUTLOOK.COM; Tue, 23 May 2017 15:15:02 +0000</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Received">from AM4PR0101MB2260.eurprd01.prod.exchangelabs.com ([fe80::b0a1:a8ef:50b9:d0d4]) by AM4PR0101MB2260.eurprd01.prod.exchangelabs.com ([fe80::b0a1:a8ef:50b9:d0d4%18]) with mapi id 15.01.1101.019; Tue, 23 May 2017 15:15:02 +0000</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Content-Type">application/ms-tnef</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Content-Transfer-Encoding">binary</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Subject">CORE#</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Thread-Topic">CORE#</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Thread-Index">AQHS09dZxogVZEo/6kajpkDXW+XZgg==</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Date">Tue, 23 May 2017 15:15:02 +0000</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Message-ID">&lt;AM4PR0101MB22605317133C10FB65525AC7FBF90@AM4PR0101MB2260.eurprd01.prod.exchangelabs.com&gt;</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Accept-Language">en-US</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Content-Language">en-IE</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-Exchange-Organization-SCL">-1</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-TNEF-Correlator">&lt;AM4PR0101MB22605317133C10FB65525AC7FBF90@AM4PR0101MB2260.eurprd01.prod.exchangelabs.com&gt;</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="MIME-Version">1.0</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-Exchange-Organization-MessageDirectionality">Originating</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-Exchange-Organization-AuthSource">AM4PR0101MB2260.eurprd01.prod.exchangelabs.com</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-Exchange-Organization-AuthAs">Internal</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-Exchange-Organization-AuthMechanism">04</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-Originating-IP">[95.83.227.65]</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-Exchange-Organization-Network-Message-Id">f51f1cab-a169-4f53-c8f1-08d4a1ee7c31</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-PublicTrafficType">Email</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-Microsoft-Exchange-Diagnostics">1;AM4PR0101MB2260;35:c3TnV/T6l1tiR17Wix2hLqyAXpP4ISfm4uVFWuxxEYZgX0VeY0mMGc1Emko36GSIx8hVcdxjGR3S4vlMDlr+RPErF4tthZThMRaw6uWghDQw6r9JcQyqreTyiQTu+OgC;20:xEjRIhKnhMHmHZxi3fNCE3yY1sItmodq4+FcyjFsjS2Q2ASG3lBXJ4Q6bIJt3edrMY7xBvfmvwcsrJbJtCLpIpVze6TjJThu61OAvQCkAMO5Iqx4GuRKwDHRQtNTGKQObUH55FuXmDQ2kdtUfm2StKKf2vHrJckwf7jllKnlBkg=</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-Microsoft-Exchange-Diagnostics">1;DB5PR01MB1367;9:/RoAdPJMMvt0vFDulQ/oSWdkksTO90plFfadzro+Nooj8ong5oYFqynaAjw1CRtF3oez6Fnhx7LMjRGzOrAMnrlpnxd1bdeexzUnC5sXAHGgBS1/WlF7R96GO86rteVWbm4brabU0kYdldQ1PynbDAKfM2ln2Vi2CSctlBewpEMOugR6njjPM1UDihmkrmVcmf+4gREML5JY8tYlw77nzA==</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-Microsoft-Exchange-Diagnostics">1;DB5PR01MB1367;27:n9GbHW4khXSbd9q0VyjCpMHeTGxwZzeJ7swvVm7DJOfPGGbdgCvMKv9VicDGk4XNTxoG0l43r3qil7vS/iOSu+k275nblekOffwx2/dk+syfgxibsjiNFqjEHi4e7+Jcer8mrWSoZ2zCMGJ378qang==</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-Exchange-Organization-Antispam-Report">SFV:SKI;SCL:-1</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-Forefront-Antispam-Report">SFV:SKI;SCL:-1</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="Return-Path">Mark.McGoohan@aurivo.ie</t:InternetMessageHeader>
+                  <t:InternetMessageHeader HeaderName="X-MS-Exchange-Transport-EndToEndLatency">00:00:00.0981666</t:InternetMessageHeader>
+                </t:InternetMessageHeaders>
+                <t:DateTimeSent>2017-05-23T15:15:02Z</t:DateTimeSent>
+                <t:DateTimeCreated>2017-05-23T15:15:02Z</t:DateTimeCreated>
+                <t:ResponseObjects>
+                  <t:ReplyToItem />
+                  <t:ReplyAllToItem />
+                  <t:ForwardItem />
+                </t:ResponseObjects>
+                <t:DisplayCc />
+                <t:DisplayTo>smtp Relay</t:DisplayTo>
+                <t:HasAttachments>false</t:HasAttachments>
+                <t:Culture>en-IE</t:Culture>
+                <t:EffectiveRights>
+                  <t:CreateAssociated>false</t:CreateAssociated>
+                  <t:CreateContents>false</t:CreateContents>
+                  <t:CreateHierarchy>false</t:CreateHierarchy>
+                  <t:Delete>true</t:Delete>
+                  <t:Modify>true</t:Modify>
+                  <t:Read>true</t:Read>
+                  <t:ViewPrivateItems>true</t:ViewPrivateItems>
+                </t:EffectiveRights>
+                <t:LastModifiedName>Mark McGoohan</t:LastModifiedName>
+                <t:LastModifiedTime>2017-05-23T15:15:02Z</t:LastModifiedTime>
+                <t:IsAssociated>false</t:IsAssociated>
+                <t:WebClientReadFormQueryString>https://outlook.office365.com/owa/?ItemID=AAMkAGViMTdkMmFjLWM4ZDgtNGY3NS1iYjYzLTEyZWM5Yjg2ODZmMgBGAAAAAABbcrmIRvDtTathu7RG3nVSBwDhrKmabaYmS4ZFkTt3N2jpAAAAAAEMAADhrKmabaYmS4ZFkTt3N2jpAAFnTUJPAAA%3D&amp;exvsurl=1&amp;viewmodel=ReadMessageItem</t:WebClientReadFormQueryString>
+                <t:ConversationId Id="AAQkAGViMTdkMmFjLWM4ZDgtNGY3NS1iYjYzLTEyZWM5Yjg2ODZmMgAQAMaIFWRKP+pGo6ZA11vl2YI=" />
+                <t:Flag>
+                  <t:FlagStatus>NotFlagged</t:FlagStatus>
+                </t:Flag>
+                <t:InstanceKey>AQAAAAAAAQwBAAABZ01CTwAAAAA=</t:InstanceKey>
+                <t:EntityExtractionResult />
+                <t:Sender>
+                  <t:Mailbox>
+                    <t:Name>Mark McGoohan</t:Name>
+                    <t:EmailAddress>Mark.McGoohan@aurivo.ie</t:EmailAddress>
+                    <t:RoutingType>SMTP</t:RoutingType>
+                    <t:MailboxType>Mailbox</t:MailboxType>
+                  </t:Mailbox>
+                </t:Sender>
+                <t:ToRecipients>
+                  <t:Mailbox>
+                    <t:Name>smtp Relay</t:Name>
+                    <t:EmailAddress>smtp-Relay@aurivo.ie</t:EmailAddress>
+                    <t:RoutingType>SMTP</t:RoutingType>
+                    <t:MailboxType>Mailbox</t:MailboxType>
+                  </t:Mailbox>
+                </t:ToRecipients>
+                <t:IsReadReceiptRequested>false</t:IsReadReceiptRequested>
+                <t:ConversationIndex>AQHS09dZxogVZEo/6kajpkDXW+XZgg==</t:ConversationIndex>
+                <t:ConversationTopic>CORE#</t:ConversationTopic>
+                <t:From>
+                  <t:Mailbox>
+                    <t:Name>Mark McGoohan</t:Name>
+                    <t:EmailAddress>Mark.McGoohan@aurivo.ie</t:EmailAddress>
+                    <t:RoutingType>SMTP</t:RoutingType>
+                    <t:MailboxType>Mailbox</t:MailboxType>
+                  </t:Mailbox>
+                </t:From>
+                <t:InternetMessageId>&lt;AM4PR0101MB22605317133C10FB65525AC7FBF90@AM4PR0101MB2260.eurprd01.prod.exchangelabs.com&gt;</t:InternetMessageId>
+                <t:IsRead>false</t:IsRead>
+                <t:ReceivedBy>
+                  <t:Mailbox>
+                    <t:Name>smtp Relay</t:Name>
+                    <t:EmailAddress>smtp-Relay@aurivo.ie</t:EmailAddress>
+                    <t:RoutingType>SMTP</t:RoutingType>
+                    <t:MailboxType>Mailbox</t:MailboxType>
+                  </t:Mailbox>
+                </t:ReceivedBy>
+                <t:ReceivedRepresenting>
+                  <t:Mailbox>
+                    <t:Name>smtp Relay</t:Name>
+                    <t:EmailAddress>smtp-Relay@aurivo.ie</t:EmailAddress>
+                    <t:RoutingType>SMTP</t:RoutingType>
+                    <t:MailboxType>Mailbox</t:MailboxType>
+                  </t:Mailbox>
+                </t:ReceivedRepresenting>
+              </t:Message>
+            </m:Items>
+          </m:GetItemResponseMessage>
+        </m:ResponseMessages>
+      </m:GetItemResponse>
+    </s:Body>
+  </s:Envelope>
+</Trace>

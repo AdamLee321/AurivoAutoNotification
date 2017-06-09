@@ -1,0 +1,18 @@
+<Trace Tag="EwsRequest" Tid="9" Time="2017-05-23 14:38:16Z" Version="15.00.0913.015">
+  <?xml version="1.0" encoding="utf-8"?>
+  <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://schemas.microsoft.com/exchange/services/2006/messages" xmlns:t="http://schemas.microsoft.com/exchange/services/2006/types" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Header>
+      <t:RequestServerVersion Version="Exchange2013" />
+    </soap:Header>
+    <soap:Body>
+      <m:GetItem>
+        <m:ItemShape>
+          <t:BaseShape>AllProperties</t:BaseShape>
+        </m:ItemShape>
+        <m:ItemIds>
+          <t:ItemId Id="AAMkAGViMTdkMmFjLWM4ZDgtNGY3NS1iYjYzLTEyZWM5Yjg2ODZmMgBGAAAAAABbcrmIRvDtTathu7RG3nVSBwDhrKmabaYmS4ZFkTt3N2jpAAAAAAEMAADhrKmabaYmS4ZFkTt3N2jpAAFnTUJLAAA=" ChangeKey="CQAAABYAAADhrKmabaYmS4ZFkTt3N2jpAAFnagq1" />
+        </m:ItemIds>
+      </m:GetItem>
+    </soap:Body>
+  </soap:Envelope>
+</Trace>

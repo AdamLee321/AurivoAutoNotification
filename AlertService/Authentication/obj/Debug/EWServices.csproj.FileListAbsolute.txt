@@ -1,0 +1,10 @@
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\bin\Debug\EWServices.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\bin\Debug\EWServices.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\obj\Debug\EWServices.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\obj\Debug\EWServices.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\Authentication\bin\Debug\EWServices.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\Authentication\bin\Debug\EWServices.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\Authentication\obj\Debug\EWServices.csprojResolveAssemblyReference.cache
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\Authentication\obj\Debug\EWServices.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\Authentication\obj\Debug\EWServices.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\obj\Debug\EWServices.csprojResolveAssemblyReference.cache

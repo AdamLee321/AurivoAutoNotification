@@ -1,0 +1,3 @@
+Run as Administrator
+installutil <path to the service>.exe
+stop or start from services.

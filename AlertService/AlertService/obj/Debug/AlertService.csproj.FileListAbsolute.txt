@@ -1,0 +1,3 @@
+c:\users\adam.lee\documents\visual studio 2017\Projects\AlertService\AlertService\obj\Debug\AlertService.csprojResolveAssemblyReference.cache
+c:\users\adam.lee\documents\visual studio 2017\Projects\AlertService\AlertService\obj\Debug\AlertService.ProjectInstaller.resources
+c:\users\adam.lee\documents\visual studio 2017\Projects\AlertService\AlertService\obj\Debug\AlertService.csproj.GenerateResource.Cache

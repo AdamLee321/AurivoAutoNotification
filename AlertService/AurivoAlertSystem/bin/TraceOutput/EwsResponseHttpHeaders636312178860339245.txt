@@ -1,0 +1,22 @@
+<Trace Tag="EwsResponseHttpHeaders" Tid="8" Time="2017-05-24 09:18:06Z">
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+Vary: Accept-Encoding
+request-id: 95c28d50-0b88-4d76-8ab8-4adaba912c79
+X-CalculatedBETarget: DB5PR01MB1367.eurprd01.prod.exchangelabs.com
+X-BackEndHttpStatus: 200
+Cache-Control: private
+Content-Type: text/xml; charset=utf-8
+Set-Cookie: exchangecookie=5d8110547542462ea3d29d7f228d8b3a; expires=Thu, 24-May-2018 09:17:14 GMT; path=/; HttpOnly,exchangecookie=5d8110547542462ea3d29d7f228d8b3a; expires=Thu, 24-May-2018 09:17:14 GMT; path=/; HttpOnly,EXOBasicAuth=compactTicket=&amp;key=smtp-relay%40aurivo.ie+microsoft.exchange.webservices+95.83.227.65+&amp;signature=xo17Vzhv1Yf5mSZ0Xbjy6vB+JpQFXTACBhSf70q4smguGOQrXN8iJSlg4GfTI7R0NEncwjSvMPeBgrhNF/CXTK6Al2FzujK0YR3UMMoxx2ODg/zpxUw06O8SPJ0fPYGh6B6aqaT5RC4IWI+P0Y2Ju90CmbdjIRhO/mrxODxHVi9XyvlAhMU3F3gTVshbrTWqAbrsC+kBrouf9Wf8DDQiTd2Namcfn9wYz9QS1m8GBIvwGQdZ2hBOcjDd48R/AZ6Hh/vrFzRgs8kWYueSzx3fYZmDP4NiAi2qEKMXFE7F5ViY5pb1M/4vRB/6g/1YvZ+ovNpyxGwTATc1wlj2hZQ6aA==&amp;puid=1003BFFD945C9AAC&amp;expireTime=636311949900000000&amp;membername=smtp-relay%40aurivo.ie&amp;flags=False&amp;userType=ManagedBusiness; expires=Wed, 24-May-2017 03:56:30 GMT; path=/EWS; secure; HttpOnly
+Server: Microsoft-IIS/8.5
+x-EwsHandler: FindItem
+X-AspNet-Version: 4.0.30319
+X-DiagInfo: DB5PR01MB1367
+X-BEServer: DB5PR01MB1367
+X-Powered-By: ASP.NET
+X-FEServer: AM3PR07CA0068
+Date: Wed, 24 May 2017 09:17:15 GMT
+
+
+</Trace>

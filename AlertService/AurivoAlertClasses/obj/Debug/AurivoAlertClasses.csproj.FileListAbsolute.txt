@@ -1,0 +1,29 @@
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.csprojResolveAssemblyReference.cache
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.csproj.ResolveComReference.cache
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertClasses\bin\Debug\AurivoAlertClasses.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertClasses\bin\Debug\AurivoAlertClasses.pdb
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.pdb
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.csprojResolveAssemblyReference.cache
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.csproj.ResolveComReference.cache
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.pdb
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\AurivoAlertClasses.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\AurivoAlertClasses.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\AurivoAlertClasses.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\AurivoAlertClasses.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.csproj.ResolveComReference.cache
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.csprojResolveAssemblyReference.cache
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\EWServices.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\EWServices.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\AurivoAlertClasses.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\AurivoAlertClasses.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\EWServices.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\bin\Debug\EWServices.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.csprojResolveAssemblyReference.cache
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.csproj.ResolveComReference.cache
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertClasses\obj\Debug\AurivoAlertClasses.pdb

@@ -1,0 +1,3 @@
+<Trace Tag="AutodiscoverConfiguration" Tid="10" Time="2017-05-23 15:13:39Z">
+Trying to get Autodiscover redirection URL from http://autodiscover.aurivo.ie/autodiscover/autodiscover.xml.
+</Trace>

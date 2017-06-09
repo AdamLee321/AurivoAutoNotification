@@ -1,0 +1,18 @@
+<Trace Tag="AutodiscoverResponseHttpHeaders" Tid="8" Time="2017-05-24 09:17:09Z">
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+request-id: cefb3314-fcbc-4251-8860-5d48b8fd3f91
+X-CalculatedBETarget: db5pr01mb1367.eurprd01.prod.exchangelabs.com
+X-DiagInfo: DB5PR01MB1367
+X-BEServer: DB5PR01MB1367
+Cache-Control: private
+Content-Type: text/xml; charset=utf-8
+Set-Cookie: EXOBasicAuth=compactTicket=&amp;key=smtp-relay%40aurivo.ie+microsoft.exchange.autodiscover+95.83.227.65+&amp;signature=N0mrka+Bdhjtak0WHMtcXX8oXo+L1M/X7SlJijK5NQAWVIjfZYGbUpJBndGm3HTNpcvL0HEQAkBROFXpPXkdyMXHreCO0oPD106VgK6XrrqZ1K+Rns0yo49R8Bh6cFNdwPJJpptFnhVNnKoyteOevYvtoZTp3FWNjwUKkTXGUR9WQmNLPmNa/0hZYdo5bz7sBD+MihgYPyIM+7MXyx/vdjD1LiOzFyeCzfPseX05EDaf39Guji9n3r0brgBZ2gkS+7jUN15jS/A+wJ58ilOAzZvg73EPNtyqntIagIF9r+QZIkw611zGt8oeQjcgTx+kGX0uwfWoaNRDUo9PJw6FEQ==&amp;puid=1003BFFD945C9AAC&amp;expireTime=636311949900000000&amp;membername=smtp-relay%40aurivo.ie&amp;flags=False&amp;userType=ManagedBusiness; expires=Wed, 24-May-2017 03:56:30 GMT; path=/autodiscover; secure; HttpOnly,X-BackEndCookie2=smtp-relay@aurivo.ie=u56Lnp2ejJqByp6dmsfKz5rSmZzInNLLz83I0p6czsrSzMfKxsrOy5vLy8fOgZ6KjZaJkNGWmoHNz87I0s/J0s3Mq8/Gxc7Jxc7HgZqKjY+Nm8/O0Y+NkJvRmoecl56RmJqTnp2M0ZyQkoHP; expires=Fri, 23-Jun-2017 09:16:18 GMT; path=/autodiscover; secure; HttpOnly,X-BackEndCookie=smtp-relay@aurivo.ie=u56Lnp2ejJqByp6dmsfKz5rSmZzInNLLz83I0p6czsrSzMfKxsrOy5vLy8fOgZ6KjZaJkNGWmoHNz87I0s/J0s3Mq8/Gxc7Jxc7HgZqKjY+Nm8/O0Y+NkJvRmoecl56RmJqTnp2M0ZyQkoHP; expires=Fri, 23-Jun-2017 09:16:18 GMT; path=/autodiscover; secure; HttpOnly
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-FEServer: AM3PR07CA0065
+Date: Wed, 24 May 2017 09:16:18 GMT
+
+
+</Trace>

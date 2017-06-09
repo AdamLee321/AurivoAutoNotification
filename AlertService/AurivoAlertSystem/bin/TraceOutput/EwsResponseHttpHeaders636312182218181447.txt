@@ -1,0 +1,21 @@
+<Trace Tag="EwsResponseHttpHeaders" Tid="9" Time="2017-05-24 09:23:41Z">
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+Vary: Accept-Encoding
+request-id: 2be0ca3a-5650-4361-85e4-7487f1db5705
+X-CalculatedBETarget: DB5PR01MB1367.eurprd01.prod.exchangelabs.com
+X-BackEndHttpStatus: 200
+X-DiagInfo: DB5PR01MB1367
+X-BEServer: DB5PR01MB1367
+X-FEServer: DB6PR0202CA0043
+Cache-Control: private
+Content-Type: text/xml; charset=utf-8
+Date: Wed, 24 May 2017 09:22:50 GMT
+Set-Cookie: exchangecookie=74307908124f45739cc398c62f8965e3; path=/
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+
+
+</Trace>

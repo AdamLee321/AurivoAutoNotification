@@ -1,0 +1,18 @@
+<Trace Tag="AutodiscoverResponseHttpHeaders" Tid="9" Time="2017-05-23 14:45:15Z">
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+request-id: 56083a70-b258-48fb-bb44-22010a4fb3ec
+X-CalculatedBETarget: db5pr01mb1367.eurprd01.prod.exchangelabs.com
+X-DiagInfo: DB5PR01MB1367
+X-BEServer: DB5PR01MB1367
+Cache-Control: private
+Content-Type: text/xml; charset=utf-8
+Set-Cookie: X-BackEndCookie2=smtp-relay@aurivo.ie=u56Lnp2ejJqByp6dmsfKz5rSmZzInNLLz83I0p6czsrSzMfKxsrOy5vLy8fOgZ6KjZaJkNGWmoHNz87I0s/J0s3Nq87LxcvLxc3LgZqKjY+Nm8/O0Y+NkJvRmoecl56RmJqTnp2M0ZyQkoHP; expires=Thu, 22-Jun-2017 14:44:24 GMT; path=/autodiscover; secure; HttpOnly,X-BackEndCookie=smtp-relay@aurivo.ie=u56Lnp2ejJqByp6dmsfKz5rSmZzInNLLz83I0p6czsrSzMfKxsrOy5vLy8fOgZ6KjZaJkNGWmoHNz87I0s/J0s3Nq87LxcvLxc3LgZqKjY+Nm8/O0Y+NkJvRmoecl56RmJqTnp2M0ZyQkoHP; expires=Thu, 22-Jun-2017 14:44:24 GMT; path=/autodiscover; secure; HttpOnly
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-FEServer: DB6PR0202CA0044
+Date: Tue, 23 May 2017 14:44:23 GMT
+
+
+</Trace>

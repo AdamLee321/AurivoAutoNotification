@@ -1,0 +1,3 @@
+<Trace Tag="AutodiscoverConfiguration" Tid="8" Time="2017-05-22 14:57:33Z">
+Starting SCP lookup for domainName='aurivo.ie', root path=''
+</Trace>

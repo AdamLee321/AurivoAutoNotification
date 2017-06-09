@@ -1,0 +1,3 @@
+<Trace Tag="AutodiscoverConfiguration" Tid="10" Time="2017-05-24 11:22:55Z">
+Scanning for SCP urls for the current computer Site=Sligo-HQ
+</Trace>

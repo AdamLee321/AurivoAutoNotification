@@ -1,0 +1,101 @@
+<Trace Tag="EwsResponse" Tid="8" Time="2017-05-22 14:58:41Z" Version="15.00.0913.015">
+  <?xml version="1.0" encoding="utf-8"?>
+  <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+    <s:Header>
+      <h:ServerVersionInfo MajorVersion="15" MinorVersion="1" MajorBuildNumber="1101" MinorBuildNumber="19" Version="V2017_04_14" xmlns:h="http://schemas.microsoft.com/exchange/services/2006/types" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    </s:Header>
+    <s:Body>
+      <m:FindItemResponse xmlns:m="http://schemas.microsoft.com/exchange/services/2006/messages" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:t="http://schemas.microsoft.com/exchange/services/2006/types">
+        <m:ResponseMessages>
+          <m:FindItemResponseMessage ResponseClass="Success">
+            <m:ResponseCode>NoError</m:ResponseCode>
+            <m:RootFolder IndexedPagingOffset="1" TotalItemsInView="21057" IncludesLastItemInRange="false">
+              <t:Items>
+                <t:Message>
+                  <t:ItemId Id="AAMkAGI1NjQ1YmUwLTM2MDgtNDk5ZC05YzllLTgzY2I0MmRjZDBmYwBGAAAAAAB4CdGwzLjxTr1j0WjhlAm0BwCjTao0JFQKRbGKUtdEO13bAAAAAAEMAACjTao0JFQKRbGKUtdEO13bAAFmwTPIAAA=" ChangeKey="CQAAABYAAACjTao0JFQKRbGKUtdEO13bAAFnDQvN" />
+                  <t:ParentFolderId Id="AQMkAGI1NjQ1YmUwLTM2MDgtNDk5AGQtOWM5ZS04M2NiNDJkY2QwZmMALgAAA3gJ0bDMuPFOvWPRaOGUCbQBAKNNqjQkVApFsYpS10Q7XdsAAAIBDAAAAA==" ChangeKey="AQAAAA==" />
+                  <t:ItemClass>IPM.Note</t:ItemClass>
+                  <t:Subject>RE: shareholders Ballymote, Gurteen and Kilmactranny</t:Subject>
+                  <t:Sensitivity>Normal</t:Sensitivity>
+                  <t:DateTimeReceived>2017-05-22T14:55:50Z</t:DateTimeReceived>
+                  <t:Size>45940</t:Size>
+                  <t:Importance>Normal</t:Importance>
+                  <t:InReplyTo>&lt;AM4PR0101MB226068302F9AB48C739ADE9AFBF80@AM4PR0101MB2260.eurprd01.prod.exchangelabs.com&gt;</t:InReplyTo>
+                  <t:IsSubmitted>false</t:IsSubmitted>
+                  <t:IsDraft>false</t:IsDraft>
+                  <t:IsFromMe>false</t:IsFromMe>
+                  <t:IsResend>false</t:IsResend>
+                  <t:IsUnmodified>true</t:IsUnmodified>
+                  <t:DateTimeSent>2017-05-22T14:55:49Z</t:DateTimeSent>
+                  <t:DateTimeCreated>2017-05-22T14:55:49Z</t:DateTimeCreated>
+                  <t:ReminderIsSet>false</t:ReminderIsSet>
+                  <t:ReminderMinutesBeforeStart>0</t:ReminderMinutesBeforeStart>
+                  <t:DisplayCc />
+                  <t:DisplayTo>Mark McGoohan</t:DisplayTo>
+                  <t:HasAttachments>false</t:HasAttachments>
+                  <t:Culture>en-US</t:Culture>
+                  <t:EffectiveRights>
+                    <t:CreateAssociated>false</t:CreateAssociated>
+                    <t:CreateContents>false</t:CreateContents>
+                    <t:CreateHierarchy>false</t:CreateHierarchy>
+                    <t:Delete>true</t:Delete>
+                    <t:Modify>true</t:Modify>
+                    <t:Read>true</t:Read>
+                    <t:ViewPrivateItems>true</t:ViewPrivateItems>
+                  </t:EffectiveRights>
+                  <t:LastModifiedName>Eileen ODonnell</t:LastModifiedName>
+                  <t:LastModifiedTime>2017-05-22T14:55:50Z</t:LastModifiedTime>
+                  <t:IsAssociated>false</t:IsAssociated>
+                  <t:WebClientReadFormQueryString>https://outlook.office365.com/owa/?ItemID=AAMkAGI1NjQ1YmUwLTM2MDgtNDk5ZC05YzllLTgzY2I0MmRjZDBmYwBGAAAAAAB4CdGwzLjxTr1j0WjhlAm0BwCjTao0JFQKRbGKUtdEO13bAAAAAAEMAACjTao0JFQKRbGKUtdEO13bAAFmwTPIAAA%3D&amp;exvsurl=1&amp;viewmodel=ReadMessageItem</t:WebClientReadFormQueryString>
+                  <t:ConversationId Id="AAQkAGI1NjQ1YmUwLTM2MDgtNDk5ZC05YzllLTgzY2I0MmRjZDBmYwAQAOrha/FR9ENFigLjFBvse/s=" />
+                  <t:Flag>
+                    <t:FlagStatus>NotFlagged</t:FlagStatus>
+                  </t:Flag>
+                  <t:InstanceKey>AQAAAAAAAQwBAAABZsEzyAAAAAA=</t:InstanceKey>
+                  <t:Sender>
+                    <t:Mailbox>
+                      <t:Name>Eileen ODonnell</t:Name>
+                      <t:EmailAddress>Eileen.ODonnell@aurivo.ie</t:EmailAddress>
+                      <t:RoutingType>SMTP</t:RoutingType>
+                      <t:MailboxType>OneOff</t:MailboxType>
+                    </t:Mailbox>
+                  </t:Sender>
+                  <t:IsReadReceiptRequested>false</t:IsReadReceiptRequested>
+                  <t:IsDeliveryReceiptRequested>false</t:IsDeliveryReceiptRequested>
+                  <t:ConversationIndex>AdLTBaBK6uFr8VH0Q0WKAuMUG+x7+wABFSdAAABmheA=</t:ConversationIndex>
+                  <t:ConversationTopic>shareholders Ballymote, Gurteen and Kilmactranny</t:ConversationTopic>
+                  <t:From>
+                    <t:Mailbox>
+                      <t:Name>Eileen ODonnell</t:Name>
+                      <t:EmailAddress>Eileen.ODonnell@aurivo.ie</t:EmailAddress>
+                      <t:RoutingType>SMTP</t:RoutingType>
+                      <t:MailboxType>OneOff</t:MailboxType>
+                    </t:Mailbox>
+                  </t:From>
+                  <t:InternetMessageId>&lt;VI1PR0101MB2254D9BEA860EA3F4788C0F7EFF80@VI1PR0101MB2254.eurprd01.prod.exchangelabs.com&gt;</t:InternetMessageId>
+                  <t:IsRead>false</t:IsRead>
+                  <t:References>&lt;VI1PR0101MB2254FD9B5C5D437B8EFF6CAAEFF80@VI1PR0101MB2254.eurprd01.prod.exchangelabs.com&gt; &lt;AM4PR0101MB226068302F9AB48C739ADE9AFBF80@AM4PR0101MB2260.eurprd01.prod.exchangelabs.com&gt;</t:References>
+                  <t:ReceivedBy>
+                    <t:Mailbox>
+                      <t:Name>Mark McGoohan</t:Name>
+                      <t:RoutingType>EX</t:RoutingType>
+                      <t:MailboxType>OneOff</t:MailboxType>
+                    </t:Mailbox>
+                  </t:ReceivedBy>
+                  <t:ReceivedRepresenting>
+                    <t:Mailbox>
+                      <t:Name>Mark McGoohan</t:Name>
+                      <t:EmailAddress>/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=17F0B7A941154B5E9C2E4433722AC722-MARK MCGOOH</t:EmailAddress>
+                      <t:RoutingType>EX</t:RoutingType>
+                      <t:MailboxType>OneOff</t:MailboxType>
+                    </t:Mailbox>
+                  </t:ReceivedRepresenting>
+                </t:Message>
+              </t:Items>
+            </m:RootFolder>
+          </m:FindItemResponseMessage>
+        </m:ResponseMessages>
+      </m:FindItemResponse>
+    </s:Body>
+  </s:Envelope>
+</Trace>

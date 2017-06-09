@@ -1,0 +1,5 @@
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\bin\Debug\Authentication.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\bin\Debug\Authentication.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\obj\Debug\Authentication.csprojResolveAssemblyReference.cache
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\obj\Debug\Authentication.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\Authentication\obj\Debug\Authentication.pdb

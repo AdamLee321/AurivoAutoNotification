@@ -1,0 +1,99 @@
+<Trace Tag="EwsResponse" Tid="9" Time="2017-05-22 15:06:32Z" Version="15.00.0913.015">
+  <?xml version="1.0" encoding="utf-8"?>
+  <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+    <s:Header>
+      <h:ServerVersionInfo MajorVersion="15" MinorVersion="1" MajorBuildNumber="1101" MinorBuildNumber="19" Version="V2017_04_14" xmlns:h="http://schemas.microsoft.com/exchange/services/2006/types" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    </s:Header>
+    <s:Body>
+      <m:FindItemResponse xmlns:m="http://schemas.microsoft.com/exchange/services/2006/messages" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:t="http://schemas.microsoft.com/exchange/services/2006/types">
+        <m:ResponseMessages>
+          <m:FindItemResponseMessage ResponseClass="Success">
+            <m:ResponseCode>NoError</m:ResponseCode>
+            <m:RootFolder IndexedPagingOffset="1" TotalItemsInView="-1" IncludesLastItemInRange="false">
+              <t:Items>
+                <t:Message>
+                  <t:ItemId Id="AAMkAGViMTdkMmFjLWM4ZDgtNGY3NS1iYjYzLTEyZWM5Yjg2ODZmMgBGAAAAAABbcrmIRvDtTathu7RG3nVSBwDhrKmabaYmS4ZFkTt3N2jpAAAAAAEMAADhrKmabaYmS4ZFkTt3N2jpAAFnTUI8AAA=" ChangeKey="CQAAABYAAADhrKmabaYmS4ZFkTt3N2jpAAFnagps" />
+                  <t:ParentFolderId Id="AQMkAGViMTdkMmFjLWM4ZDgtNGY3NS1iYgA2My0xMmVjOWI4Njg2ZjIALgAAA1tyuYhG8O1Nq2G7tEbedVIBAOGsqZptpiZLhkWRO3c3aOkAAAIBDAAAAA==" ChangeKey="AQAAAA==" />
+                  <t:ItemClass>IPM.Note</t:ItemClass>
+                  <t:Subject>Test from Mark</t:Subject>
+                  <t:Sensitivity>Normal</t:Sensitivity>
+                  <t:DateTimeReceived>2017-05-22T15:05:39Z</t:DateTimeReceived>
+                  <t:Size>13630</t:Size>
+                  <t:Importance>Normal</t:Importance>
+                  <t:IsSubmitted>false</t:IsSubmitted>
+                  <t:IsDraft>false</t:IsDraft>
+                  <t:IsFromMe>false</t:IsFromMe>
+                  <t:IsResend>false</t:IsResend>
+                  <t:IsUnmodified>true</t:IsUnmodified>
+                  <t:DateTimeSent>2017-05-22T15:05:38Z</t:DateTimeSent>
+                  <t:DateTimeCreated>2017-05-22T15:05:39Z</t:DateTimeCreated>
+                  <t:ReminderIsSet>false</t:ReminderIsSet>
+                  <t:ReminderMinutesBeforeStart>0</t:ReminderMinutesBeforeStart>
+                  <t:DisplayCc />
+                  <t:DisplayTo>smtp Relay</t:DisplayTo>
+                  <t:HasAttachments>false</t:HasAttachments>
+                  <t:Culture>en-US</t:Culture>
+                  <t:EffectiveRights>
+                    <t:CreateAssociated>false</t:CreateAssociated>
+                    <t:CreateContents>false</t:CreateContents>
+                    <t:CreateHierarchy>false</t:CreateHierarchy>
+                    <t:Delete>true</t:Delete>
+                    <t:Modify>true</t:Modify>
+                    <t:Read>true</t:Read>
+                    <t:ViewPrivateItems>true</t:ViewPrivateItems>
+                  </t:EffectiveRights>
+                  <t:LastModifiedName>Mark McGoohan</t:LastModifiedName>
+                  <t:LastModifiedTime>2017-05-22T15:05:39Z</t:LastModifiedTime>
+                  <t:IsAssociated>false</t:IsAssociated>
+                  <t:WebClientReadFormQueryString>https://outlook.office365.com/owa/?ItemID=AAMkAGViMTdkMmFjLWM4ZDgtNGY3NS1iYjYzLTEyZWM5Yjg2ODZmMgBGAAAAAABbcrmIRvDtTathu7RG3nVSBwDhrKmabaYmS4ZFkTt3N2jpAAAAAAEMAADhrKmabaYmS4ZFkTt3N2jpAAFnTUI8AAA%3D&amp;exvsurl=1&amp;viewmodel=ReadMessageItem</t:WebClientReadFormQueryString>
+                  <t:ConversationId Id="AAQkAGViMTdkMmFjLWM4ZDgtNGY3NS1iYjYzLTEyZWM5Yjg2ODZmMgAQAAuCcDWaJUKJhE8f/k48Vg0=" />
+                  <t:Flag>
+                    <t:FlagStatus>NotFlagged</t:FlagStatus>
+                  </t:Flag>
+                  <t:InstanceKey>AQAAAAAAAQwBAAABZ01CPAAAAAA=</t:InstanceKey>
+                  <t:Sender>
+                    <t:Mailbox>
+                      <t:Name>Mark McGoohan</t:Name>
+                      <t:EmailAddress>Mark.McGoohan@aurivo.ie</t:EmailAddress>
+                      <t:RoutingType>SMTP</t:RoutingType>
+                      <t:MailboxType>OneOff</t:MailboxType>
+                    </t:Mailbox>
+                  </t:Sender>
+                  <t:IsReadReceiptRequested>false</t:IsReadReceiptRequested>
+                  <t:IsDeliveryReceiptRequested>false</t:IsDeliveryReceiptRequested>
+                  <t:ConversationIndex>AdLTDPicC4JwNZolQomETx/+TjxWDQ==</t:ConversationIndex>
+                  <t:ConversationTopic>Test from Mark</t:ConversationTopic>
+                  <t:From>
+                    <t:Mailbox>
+                      <t:Name>Mark McGoohan</t:Name>
+                      <t:EmailAddress>Mark.McGoohan@aurivo.ie</t:EmailAddress>
+                      <t:RoutingType>SMTP</t:RoutingType>
+                      <t:MailboxType>OneOff</t:MailboxType>
+                    </t:Mailbox>
+                  </t:From>
+                  <t:InternetMessageId>&lt;AM4PR0101MB22608C19580F9AD36CD899FAFBF80@AM4PR0101MB2260.eurprd01.prod.exchangelabs.com&gt;</t:InternetMessageId>
+                  <t:IsRead>false</t:IsRead>
+                  <t:ReceivedBy>
+                    <t:Mailbox>
+                      <t:Name>smtp Relay</t:Name>
+                      <t:RoutingType>EX</t:RoutingType>
+                      <t:MailboxType>OneOff</t:MailboxType>
+                    </t:Mailbox>
+                  </t:ReceivedBy>
+                  <t:ReceivedRepresenting>
+                    <t:Mailbox>
+                      <t:Name>smtp Relay</t:Name>
+                      <t:EmailAddress>/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=A6FBA1B272A34ED5BBE75799CB08A7EA-SMTP RELAY</t:EmailAddress>
+                      <t:RoutingType>EX</t:RoutingType>
+                      <t:MailboxType>OneOff</t:MailboxType>
+                    </t:Mailbox>
+                  </t:ReceivedRepresenting>
+                </t:Message>
+              </t:Items>
+            </m:RootFolder>
+          </m:FindItemResponseMessage>
+        </m:ResponseMessages>
+      </m:FindItemResponse>
+    </s:Body>
+  </s:Envelope>
+</Trace>

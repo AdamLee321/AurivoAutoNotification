@@ -1,0 +1,443 @@
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.csprojResolveAssemblyReference.cache
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.Form1.resources
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.Properties.Resources.resources
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.csproj.GenerateResource.Cache
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.exe.config
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.exe
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.pdb
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertClasses.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.ProxyExtensions.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Office365.Discovery.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Office365.OutlookServices.Portable.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Office365.SharePoint.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Spatial.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\System.Spatial.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertClasses.pdb
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Spatial.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\System.Spatial.xml
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.exe
+C:\Users\adam.lee\documents\visual studio 2017\Projects\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.pdb
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.exe.config
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.exe
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.pdb
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertClasses.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Graph.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.ProxyExtensions.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Spatial.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Net.Http.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Spatial.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertClasses.pdb
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Spatial.xml
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Spatial.xml
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Core.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Core.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Core.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.csprojResolveAssemblyReference.cache
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.Form1.resources
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.Properties.Resources.resources
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.csproj.GenerateResource.Cache
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.exe
+C:\Users\smtp-relay\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.exe.config
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.exe
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertClasses.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Edm.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.OData.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Graph.Core.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Graph.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Client.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Core.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Edm.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.ProxyExtensions.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Spatial.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Newtonsoft.Json.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Net.Http.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Spatial.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertClasses.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Edm.xml
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.OData.xml
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Client.xml
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Core.xml
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Edm.xml
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Spatial.xml
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Newtonsoft.Json.xml
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Spatial.xml
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Core.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Core.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Core.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\System.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\System.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\System.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\System.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\System.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\System.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\System.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.csprojResolveAssemblyReference.cache
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.Form1.resources
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.Properties.Resources.resources
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.csproj.GenerateResource.Cache
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.exe
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.pdb
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\EWServices.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\VS2017.Projects\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\EWServices.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.csprojResolveAssemblyReference.cache
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.Form1.resources
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.Properties.Resources.resources
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.csproj.GenerateResource.Cache
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.exe
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\obj\Debug\AurivoAlertSystem.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.exe.config
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.exe
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertSystem.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertClasses.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Graph.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.ProxyExtensions.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Spatial.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Net.Http.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Spatial.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\EWServices.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\AurivoAlertClasses.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Microsoft.Spatial.xml
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\System.Spatial.xml
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\EWServices.pdb
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\adam.lee\Desktop\AurivoAlertService\AlertService\AurivoAlertSystem\bin\Debug\zh-Hant\System.Spatial.resources.dll
