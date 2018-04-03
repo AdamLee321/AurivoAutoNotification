@@ -13,5 +13,5 @@ This was used to send the SMS messages. This API is very easy to use but can be 
 <h3>SMTP Client</h3>
 The simple smtp client was used to send the mail messages and to send a report once the service has been stopped to inform me how many messages were sent and to who.
 <h3>Database</h3>
-If you are finding it hard to understand thge code its probably because you dont have a database to go with this code. The reason I havent included the databse is for security reasons. If you would like to know how I created the database please get in touch on my website, or leave a comment here on the Hub.
+If you are finding it hard to understand the code its probably because you dont have a database to go with this code. The reason I havent included the databse is for security reasons. If you would like to know how I created the database please get in touch on my website, or leave a comment here on the Hub.
 
